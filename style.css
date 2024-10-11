@@ -1,4 +1,10 @@
 body{
-    background-color: black;
-    color: #f6f6f6;
+    background-color: #FEF3E2;
+    color: #606676;
+}
+strong {
+    color: #708871;
+}
+span{
+    color:#BEC6A0;
 }
