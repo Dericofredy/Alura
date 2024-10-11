@@ -4,6 +4,8 @@
 }
 
 body {
+    height: 100vh;/*altura 100 por cento da tela*/
+    box-sizing: border-box;
     background-color: #FEF3E2;
     color: #606676;
 }
