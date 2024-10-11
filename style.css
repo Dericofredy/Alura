@@ -8,3 +8,21 @@ strong {
 span{
     color:#BEC6A0;
 }
+
+.botao {
+    background-color: #708871;
+    color: #FEF3E2;
+    border: none;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none; /* Remove sublinhado */
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.botao:hover {
+    background-color: #606676;
+}
