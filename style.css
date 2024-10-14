@@ -16,7 +16,7 @@ body {
     color: #708871;
 }
 .apresentacao{
-    margin: 10%;
+    margin: 10% 15%;
     display: flex;/*orientado página*/
     align-items: center;/*itens alinhados*/
     justify-content: space-between;/*espaço entre os itens*/    
@@ -24,6 +24,9 @@ body {
 
 .apresentacao__conteudo{
     width: 615px;
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
     }
 
 .apresentacao__conteudo__titulo{
