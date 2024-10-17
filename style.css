@@ -55,7 +55,7 @@ body {
 }
 .apresentacao__link__botao{
     /*background-color: #708871;*/
-    border: 2px solid #FEF3E2;
+    border: 2px solid #708871;
     width: 378px;
     text-align: center;
     border-radius: 8px;
@@ -63,6 +63,6 @@ body {
     font-weight: 600;
     padding: 21.5px 0; /*horizontal/vertical*/
     text-decoration: none;
-    color:#FEF3E2;
+    color:#606676;
     font-family: 'Montserrat', sans-serif;    
 }
