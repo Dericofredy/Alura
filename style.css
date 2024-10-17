@@ -39,19 +39,30 @@ body {
     font-family: 'Montserrat', sans-serif;
 }
 
+.apresentacao__link__subtitulo{
+    font-size: 24px;
+    font-family:'Krona One', sans-serif;
+    font-size: 400;
+}
+
+
 .apresentacao__link{
     display: flex;
+    flex-direction: column;
     justify-content: space-between;
+    align-items: center;
+    align-items: center;
 }
 .apresentacao__link__botao{
-    background-color: #708871;
-    width: 280px;
+    /*background-color: #708871;*/
+    border: 2px solid #FEF3E2;
+    width: 378px;
     text-align: center;
-    border-radius: 16px;
+    border-radius: 8px;
     font-size: 24px;
+    font-weight: 600;
     padding: 21.5px 0; /*horizontal/vertical*/
     text-decoration: none;
-    color:#000000;
-    font-family: 'Montserrat', sans-serif;
-    font-weight: 600;
+    color:#FEF3E2;
+    font-family: 'Montserrat', sans-serif;    
 }
