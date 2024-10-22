@@ -6,7 +6,7 @@
 }
 
 body {
-    height: 100vh;/*altura 100 por cento da tela*/
+    /*height: 100vh;*//*altura 100 por cento da tela*/
     box-sizing: border-box;
     background-color: #FEF3E2;
     color: #606676;
@@ -16,7 +16,7 @@ body {
     color: #708871;
 }
 .apresentacao{
-    margin: 10% 15%;
+    padding: 8% 15%;
     display: flex;/*orientado página*/
     align-items: center;/*itens alinhados*/
     justify-content: space-between;/*espaço entre os itens*/    
@@ -72,4 +72,14 @@ body {
 }
 .apresentacao__link__botao:hover{
     background-color: #708871;
+    padding: 3%;/*Extra - animação*/
+}
+.rodape{
+    padding: 24px;
+    color: #708871;
+    background-color: #FEF3E2;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 24px;
+    font-weight: 400;
 }
