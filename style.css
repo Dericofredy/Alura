@@ -70,3 +70,6 @@ body {
     color:#606676;
     font-family: 'Montserrat', sans-serif;    
 }
+.apresentacao__link__botao:hover{
+    background-color: #708871;
+}
