@@ -56,6 +56,9 @@ body {
 }
 .apresentacao__link__botao{
     /*background-color: #708871;*/
+    display: flex;
+    justify-content: center;
+    gap: 16px;
     border: 2px solid #708871;
     width: 378px;
     text-align: center;
