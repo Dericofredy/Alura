@@ -25,6 +25,7 @@ body {
 
             display: flex;
             gap: 80px;
+            background-color: #606676;
         }
 
         .cabecalho-menu-link{
