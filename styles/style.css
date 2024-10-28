@@ -71,6 +71,7 @@ body {
 
 .apresentacao__link__subtitulo{
     font-size: 1.5rem;
+    font-weight: 400;
     font-family: var(--fonte-principal);
 }
 
@@ -79,7 +80,6 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    align-items: center;
     align-items: center;
     gap: 32px;
 }
