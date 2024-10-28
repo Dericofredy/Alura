@@ -103,6 +103,11 @@ body {
     background-color: var(--cor-hover);
     padding: 3%;/*Extra - animação*/
 }
+
+.apresentacao__imagem{
+    width: 50%;
+}
+
 .rodape{
     padding: 24px;
     color: var(--cor-primaria);
