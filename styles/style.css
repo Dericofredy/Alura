@@ -48,7 +48,8 @@ body {
     padding: 5% 15%;
     display: flex;/*orientado página*/
     align-items: center;/*itens alinhados*/
-    justify-content: space-between;/*espaço entre os itens*/    
+    justify-content: space-between;/*espaço entre os itens*/  
+    gap: 82px; 
 }
 
 .apresentacao__conteudo{
